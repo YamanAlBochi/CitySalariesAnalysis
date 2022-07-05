@@ -7,7 +7,7 @@ One way to understand how a city government works is by looking at who it employ
 
 Questions to be clarified: 
 
-To perform data analysis, I have mentioned 21 questions that we are going to solve one by one. Questions are as follows.
+To perform data analysis, I have mentioned 16 questions that we are going to solve one by one. Questions are as follows.
 1. Display Top 10 Rows of The Dataset
 2. Check Last 10 Rows of The Dataset
 3. Find Shape of Our Dataset (Number of Rows And Number of Columns)

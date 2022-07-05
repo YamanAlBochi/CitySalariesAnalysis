@@ -28,5 +28,5 @@ To perform data analysis, I have mentioned 21 questions that we are going to sol
 18. Find Average BasePay of All Employee Per Year 
 19. Find Average BasePay of All Employee Per JobTitle 
 20. Find Average BasePay of Employee Having Job Title ACCOUNTANT  
-21. Find Top 5 Most Common Job
+21. Find Top 5 Most Common Jobs
 

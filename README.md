@@ -8,10 +8,10 @@ One way to understand how a city government works is by looking at who it employ
 Questions to be clarified: 
 
 To perform data analysis, I have mentioned 21 questions that we are going to solve one by one. Questions are as follows.
-1.  Display Top 10 Rows of The Dataset
+1. Display Top 10 Rows of The Dataset
 2. Check Last 10 Rows of The Dataset
 3. Find Shape of Our Dataset (Number of Rows And Number of Columns)
-4.  Getting Information About Our Dataset Like Total Number Rows, Total Number of Columns, Datatypes of Each Column And Memory Requirement
+4. Getting Information About Our Dataset Like Total Number Rows, Total Number of Columns, Datatypes of Each Column And Memory Requirement
 5. Check Null Values In The Dataset
 6. Drop ID, Notes, Agency, and Status Columns
 7. Get Overall Statistics About The Dataframe
@@ -23,9 +23,9 @@ To perform data analysis, I have mentioned 21 questions that we are going to sol
 13. Replace 'Not Provided' in EmployeeName' Column to NaN 
 14. Drop The Rows Having 5 Missing Values
 15. Find Job Title of ALBERT PARDINI
-16. How Much ALBERT PARDINI Make (Include Benefits)?
-17.Display Name of The Person Having The Highest BasePay
-18.Find Average BasePay of All Employee Per Year 
+16. How Much ALBERT PARDINI Make (Include Benefits)
+17. Display Name of The Person Having The Highest BasePay
+18. Find Average BasePay of All Employee Per Year 
 19. Find Average BasePay of All Employee Per JobTitle 
 20. Find Average BasePay of Employee Having Job Title ACCOUNTANT  
 21. Find Top 5 Most Common Jobs

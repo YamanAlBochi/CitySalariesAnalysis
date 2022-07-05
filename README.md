@@ -22,7 +22,7 @@ To perform data analysis, I have mentioned 21 questions that we are going to sol
 12. Find Minimum, Maximum, and Average BasePay
 13. Replace 'Not Provided' in EmployeeName' Column to NaN 
 14. Drop The Rows Having 5 Missing Values
-15. Find Job Title of ALBERT PARDINI
+15. Find Job Title of ALBERT 
 16. How Much ALBERT PARDINI Make (Include Benefits)
 17. Display Name of The Person Having The Highest BasePay
 18. Find Average BasePay of All Employee Per Year 

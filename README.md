@@ -1,5 +1,5 @@
 # CitySalariesAnalysis
-Exploring city employee's salaries data using Python.
+Exploring city employee's salaries data using Python
 
 
 About:
